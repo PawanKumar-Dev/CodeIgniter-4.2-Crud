@@ -1,0 +1,36 @@
+body {
+  font-family: 'Quicksand', sans-serif;
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+main {
+  flex: 1 0 auto;
+}
+
+nav {
+  background-color: #82589F;
+  padding: 0 5px;
+}
+
+.page-footer {
+  padding-top: 0;
+  background-color: #82589F;
+}
+
+.add-pd-btn {
+  margin-top: 20px;
+}
+
+.card .card-content {
+  padding: 25px 30px;
+}
+
+.alert {
+  padding: 10px 15px;
+  background-color: #82589F;
+  text-align: center;
+  margin: 10px auto;
+  font-size: 20px;
+}
